@@ -5,7 +5,7 @@
 ###
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;+I'm+Jidnesh+Patil!+;Passionate+Software+Developer!+;FULL+Stack+Developer!+;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&color=F4FF35&duration=4000&lines=Hi+There!+👋;+I'm+Jidnesh+Patil+;Passionate+Software+Developer!+;FULL+Stack+Developer!+;" />
 </h1>
 <h1 align="center">
 <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Jersey+10+Charted&size=49&duration=5&pause=10000&color=CA22F7FF&background=EEF9FF00&random=false&width=650&height=70&lines=A+passionate+developer+from+India"/>
@@ -25,8 +25,8 @@
 
 <h3 align="left" style="color:red">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/pranavmaurya-oo7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pranav Maurya" height="30" width="40" /></a>
-<a href="https://github.com/Pranav-401" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Pranav Maurya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jidnesh-patil-229a822bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jidnesh" height="30" width="40" /></a>
+<a href="https://github.com/jidnesh007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Jidnesh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -64,18 +64,18 @@
 <h3 align="center">
   <p> Profile View's</p>
 <div align="center">
- <img src="https://profile-counter.glitch.me/Pranav-401/count.svg?"  />
+ <img src="https://profile-counter.glitch.me/jidnesh007/count.svg?"  />
 </div>
 <h3/>
 
 
 ###
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav-401&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=yeblu&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pranav-401&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=Pranav-401&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5&order=3" height="auto" width="655" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Pranav-401&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="auto" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pranav-401&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jidnesh007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=yeblu&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jidnesh007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jidnesh007&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5&order=3" height="auto" width="655" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=jidnesh007&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="auto" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jidnesh007&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
 </div>
 
 
