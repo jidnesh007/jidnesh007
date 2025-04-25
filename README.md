@@ -23,7 +23,7 @@
 
 - 📫 How to reach me *jidneshpatil41@gmail.com*
 
-- View My Work *https://portfolio-phi-green-94.vercel.app/*
+- View My Work <a href="https://portfolio-phi-green-94.vercel.app/">Portfolio</a>
 
 <h3 align="left" style="color:red">Connect with me:</h3>
 <p align="left">
