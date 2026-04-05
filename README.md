@@ -15,9 +15,9 @@
 
 <p align="left"> </p>
 
-- 🔭 I’m currently working on *MERN STACK*
+- 🔭 I'm currently working on *MERN STACK*
 
-- 🌱 I’m currently learning *MongoDB, ExpressJS, ReactJS, NodeJS*
+- 🌱 I'm currently learning *MongoDB, ExpressJS, ReactJS, NodeJS*
 
 - 💬 Ask me about *Web Development*
 
@@ -63,25 +63,32 @@
 </div>
 
 ###
-<h3 align="center">
-  <p> Profile View's</p>
+
+<h3 align="center">Profile Views</h3>
 <div align="center">
- <img src="https://profile-counter.glitch.me/jidnesh007/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=jidnesh007&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </div>
-<h3/>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=jidnesh007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=jidnesh007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false" height="150" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=jidnesh007&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="auto" width="655" alt="streak graph" />
+</div>
+
+###
+
 
 
 ###
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jidnesh007&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=yeblu&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jidnesh007&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=yeblu&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=jidnesh007&locale=en&mode=daily&theme=yeblu&hide_border=false&border_radius=5&order=3" height="auto" width="655" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=jidnesh007&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="auto" alt="trophy graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jidnesh007&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jidnesh007&radius=16&theme=react&area=true" height="auto" alt="activity-graph graph" />
 </div>
 
-
 ###
+
 <div align="center" height="auto" width="auto">
   <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=default&animation=default&layout=socrates&font=default&fontColor=white&bgColor=black" align="center" height="auto" width="980"/>
 </div>
